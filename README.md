@@ -1,0 +1,1 @@
+Simple filtering for project-name and filesnames for https://github.com/spring-projects/sts4/tree/main/eclipse-language-servers/org.springframework.tooling.ls.eclipse.gotosymbol
